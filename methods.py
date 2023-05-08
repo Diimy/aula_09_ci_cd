@@ -5,3 +5,4 @@ def area_of_rectangle(width, height):
 def perimeter_of_rectangle(width, height):
     perimeter = 2 * (width + height)
     return perimeter
+
